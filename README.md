@@ -216,7 +216,3 @@ Este projeto demonstra:
 ## 🏁 Conclusão
 
 O FinMind AI transforma dados financeiros em decisões inteligentes, unindo tecnologia e experiência do usuário.
-
-```
-
-```
