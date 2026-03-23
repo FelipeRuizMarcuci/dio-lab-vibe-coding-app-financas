@@ -180,24 +180,30 @@ Este projeto foi desenvolvido utilizando:
 - Lovable AI
 
 Aplicando o conceito de Vibe Coding, guiando a IA com prompts estruturados para acelerar o desenvolvimento.
+```
 
 ## 📚 Aprendizados
+
 - Estruturação de PRD para IA
 - Uso prático de Inteligência Artificial em produtos reais
 - Integração frontend + backend + IA
 - Importância de UX em produtos financeiros
 - Como usar IA como ferramenta de produtividade
+
 ## 🎯 Próximos Passos
+
 - Integração com Open Finance
 - Notificações inteligentes
 - Versão mobile (React Native)
 - Modelos preditivos mais avançados
+
 ## 👨‍💻 Autor
 
 Felipe Marcuci
 
 - GitHub: https://github.com/FelipeRuizMarcuci
 - LinkedIn: https://www.linkedin.com/in/felipe-ruiz-marcuci-8674a6265/
+
 ## ⭐ Diferencial
 
 Este projeto demonstra:
@@ -206,7 +212,11 @@ Este projeto demonstra:
 - Pensamento de produto
 - Arquitetura moderna
 - Organização profissional
+
 ## 🏁 Conclusão
 
 O FinMind AI transforma dados financeiros em decisões inteligentes, unindo tecnologia e experiência do usuário.
+
+```
+
 ```
