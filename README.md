@@ -96,15 +96,15 @@ A IA é utilizada para:
 
 ### 🔹 IA e Backend
 
-![IA Setup](./docs/ia-setup.png)
+![IA Setup](./lovable_1.png)
 
 ### 🔹 Autenticação
 
-![Auth](./docs/auth.png)
+![Auth](./lovable_2.png)
 
 ### 🔹 Dashboard
 
-![Dashboard](./docs/dashboard.png)
+![Dashboard](./lovable_3.png)
 
 ---
 
